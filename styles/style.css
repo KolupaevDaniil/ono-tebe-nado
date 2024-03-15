@@ -61,7 +61,7 @@ main {
   background-size: cover;
   background-position: center center;
   min-width: 1100px;
-  min-height: 760px;
+  min-height: 757px;
   color: #ffffff;
 }
 
@@ -178,9 +178,10 @@ main {
   flex-direction: column;
   justify-content: space-between;
   min-width: 334px;
-  min-height: 567px;
-  padding: 53px 40px;
+  min-height: 563px;
+  padding: 50px 40px;
   color: #ffffff;
+  line-height: 1.2;
 }
 
 .card_type {
@@ -206,7 +207,6 @@ main {
   z-index: 2;
   font-weight: bold;
   font-size: 22px;
-  line-height: 120%;
   text-decoration-line: underline;
   text-transform: uppercase;
 }
@@ -215,7 +215,6 @@ main {
   position: relative;
   z-index: 2;
   font-size: 20px;
-  line-height: 120%;
 }
 
 .lots__look-more-link {

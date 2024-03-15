@@ -145,7 +145,7 @@ main {
 }
 
 .lots__heading {
-  padding: 0 0 27px 40px;
+  padding: 0 0 29px 40px;
   font-weight: bold;
   font-size: 40px;
   line-height: 100%;
@@ -239,11 +239,12 @@ main {
 
 .about__column {
   justify-content: center;
+  margin: 0 0 0 20px;
 }
 
 .about__text_column {
   grid-column: 2/4;
-  margin: 0 0 0 60px;
+  margin: 0 0 0 70px;
 }
 
 .about__logo {
@@ -285,9 +286,9 @@ main {
 }
 
 .footer__address {
-    font-size: 18px;
-    font-weight: normal;
-    line-height: 124.3%;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 124.3%;
 }
 
 .footer__menu-list {

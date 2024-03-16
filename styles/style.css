@@ -291,7 +291,7 @@ main {
 .footer {
   display: flex;
   justify-content: space-between;
-  padding: 173px 40px 80px 63px;
+  padding: 180px 40px 80px 63px;
 }
 
 .footer__address {

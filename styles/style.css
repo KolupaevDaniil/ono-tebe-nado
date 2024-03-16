@@ -52,7 +52,8 @@ main {
 
 .header__address {
   display: block;
-  justify-self: center;
+  justify-self: left;
+  margin-left: 23px;
   font-style: inherit;
 }
 
@@ -63,9 +64,9 @@ main {
   text-underline-position: under;
 }
 
-.address__address-text {
+.address__item_location {
   font-size: 18px;
-  line-height: 1.35;
+  line-height: 1.4;
 }
 
 .cover {
@@ -291,7 +292,7 @@ main {
 .footer {
   display: flex;
   justify-content: space-between;
-  padding: 180px 40px 80px 63px;
+  padding: 172px 40px 80px 63px;
 }
 
 .footer__address {
@@ -303,7 +304,7 @@ main {
 .footer__menu-list {
   text-align: center;
   list-style: none;
-  line-height: 1.2;
+  line-height: 1.17;
   padding-left: 40px;
 }
 

@@ -293,8 +293,8 @@ main {
 .footer {
   display: flex;
   justify-content: space-between;
-  margin: 172px 0 100px 0;
-  padding: 0 35px 0 65px; 
+  margin: 170px 0 100px 0;
+  padding: 0 30px 0 70px; 
 }
 
 .footer__address {

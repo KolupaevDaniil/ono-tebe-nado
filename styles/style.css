@@ -19,6 +19,7 @@ main {
 .header__links-list {
   display: flex;
   gap: 33px;
+  text-underline-position: under;
 }
 
 .header__links-list-item {
@@ -294,7 +295,7 @@ main {
   display: flex;
   justify-content: space-between;
   margin: 170px 0 98px 0;
-  padding: 0 35px 0 65px;
+  padding: 10px 50px 0 50px;
 }
 
 .footer__address {

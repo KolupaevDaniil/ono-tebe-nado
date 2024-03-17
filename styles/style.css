@@ -13,7 +13,7 @@ main {
   display: grid;
   grid-template-columns: 2.5fr 2fr 1.5fr;
   align-items: center;
-  padding: 94px 51px 89px;
+  padding: 96px 51px 89px;
 }
 
 .header__links-list {
@@ -313,7 +313,7 @@ main {
   align-items: center;
   list-style: none;
   line-height: 1.2;
-  padding-left: 37px;
+  padding-left: 36px;
 }
 
 .footer__social-icon {

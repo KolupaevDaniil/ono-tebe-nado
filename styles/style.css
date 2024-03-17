@@ -274,7 +274,7 @@ main {
 }
 
 .about__title {
-  padding: 105px 0 101px 0;
+  padding: 110px 0 101px 0;
   text-align: left;
   font-size: 40px;
   font-weight: bold;
@@ -295,7 +295,7 @@ main {
 .footer {
   display: flex;
   justify-content: space-between;
-  margin: 180px 0 86px 0;
+  margin: 181px 0 86px 0;
   padding: 0 50px 0 50px;
 }
 

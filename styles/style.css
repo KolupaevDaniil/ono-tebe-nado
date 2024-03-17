@@ -43,7 +43,7 @@ main {
   justify-self: left;
   align-self: center;
   margin-left: 15px;
-  width: 140px;
+  width: 138px;
 }
 
 .header__logo-image {
@@ -71,7 +71,7 @@ main {
 
 .cover {
   position: relative;
-  padding: 165px 50px 46px 50px;
+  padding: 165px 50px 50px 50px;
   background-image: url(../images/cover.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -132,7 +132,7 @@ main {
   justify-content: flex-end;
   align-items: center;
   gap: 78px;
-  padding: 134px 0 0;
+  padding: 137px 0 0;
 }
 
 .cover__description-text {
@@ -146,7 +146,7 @@ main {
 .bet-button {
   font-family: inherit;
   border: 1px #fff solid;
-  padding: 14px 32px;
+  padding: 12px 32px;
   color: #fff;
   font-weight: normal;
   font-size: 22px;
@@ -233,7 +233,7 @@ main {
 
 .lots__look-more-link {
   display: block;
-  margin: 28px 0 0 40px;
+  margin: 27px 0 0 40px;
   font-size: 20px;
   line-height: auto;
   text-decoration-line: underline;
@@ -250,12 +250,12 @@ main {
 
 .about__column {
   justify-content: center;
-  padding-left: 45px;
+  padding-left: 47px;
 }
 
 .about__text_column {
   grid-column: 2/4;
-  padding-left: 73px;
+  padding-left: 72px;
 }
 
 .about__logo {
@@ -294,7 +294,7 @@ main {
 .footer {
   display: flex;
   justify-content: space-between;
-  margin: 180px 0 88px 0;
+  margin: 182px 0 86px 0;
   padding: 0 50px 0 50px;
 }
 

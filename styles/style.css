@@ -32,7 +32,6 @@ main {
 
 .header__link {
   font-size: 18px;
-  /*white-space: nowrap;*/
 }
 
 .header__link_active {
@@ -83,16 +82,16 @@ main {
   position: absolute;
   top: 0;
   left: 0;
-  z-index: 0;
+  z-index: 1;
   width: 100%;
   height: 100%;
-  opacity: 0.6000000238418579;
+  opacity: 0.6;
   background-color: #000000;
 }
 
 .cover__title {
   position: relative;
-  z-index: 1;
+  z-index: 2;
   display: flex;
   flex-direction: column;
   gap: 20px;
@@ -128,7 +127,7 @@ main {
 
 .cover__description {
   position: relative;
-  z-index: 1;
+  z-index: 2;
   display: flex;
   justify-content: flex-end;
   align-items: center;

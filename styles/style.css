@@ -13,7 +13,7 @@ main {
   display: grid;
   grid-template-columns: 2.5fr 2fr 1.5fr;
   align-items: center;
-  padding: 96px 51px 89px;
+  padding: 94px 50px 89px;
 }
 
 .header__links-list {
@@ -71,7 +71,7 @@ main {
 
 .cover {
   position: relative;
-  padding: 165px 50px 49px 50px;
+  padding: 168px 50px 49px 50px;
   background-image: url(../images/cover.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -132,7 +132,7 @@ main {
   justify-content: flex-end;
   align-items: center;
   gap: 78px;
-  padding: 137px 0 0;
+  padding: 135px 0 0;
 }
 
 .cover__description-text {
@@ -222,18 +222,19 @@ main {
   font-size: 22px;
   text-decoration-line: underline;
   text-transform: uppercase;
-  line-height: 1.18;
+  line-height: 1.2;
 }
 
 .card__text {
   position: relative;
   z-index: 2;
   font-size: 20px;
+  line-height: 1.2;
 }
 
 .lots__look-more-link {
   display: block;
-  margin: 27px 0 0 40px;
+  margin: 26px 0 0 40px;
   font-size: 20px;
   line-height: auto;
   text-decoration-line: underline;
@@ -273,7 +274,7 @@ main {
 }
 
 .about__title {
-  padding: 103px 0;
+  padding: 107px 0 101px 0;
   text-align: left;
   font-size: 40px;
   font-weight: bold;
@@ -294,7 +295,7 @@ main {
 .footer {
   display: flex;
   justify-content: space-between;
-  margin: 183px 0 86px 0;
+  margin: 180px 0 88px 0;
   padding: 0 50px 0 50px;
 }
 
@@ -313,7 +314,7 @@ main {
   align-items: center;
   list-style: none;
   line-height: 1.2;
-  padding-left: 36px;
+  padding-left: 37px;
 }
 
 .footer__social-icon {

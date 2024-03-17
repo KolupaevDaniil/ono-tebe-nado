@@ -13,7 +13,7 @@ main {
   display: grid;
   grid-template-columns: 2.5fr 2fr 1.5fr;
   align-items: center;
-  padding: 92px 51px 90px;
+  padding: 93px 51px 90px;
 }
 
 .header__links-list {
@@ -53,7 +53,7 @@ main {
 .header__address {
   display: block;
   justify-self: left;
-  margin-left: 12px;
+  margin-left: 11px;
   font-style: inherit;
 }
 
@@ -273,7 +273,7 @@ main {
 }
 
 .about__title {
-  padding: 104px 0;
+  padding: 103px 0;
   text-align: left;
   font-size: 40px;
   font-weight: bold;
@@ -287,13 +287,14 @@ main {
   width: 690px;
   gap: 24px;
   font-size: 20px;
+  letter-spacing: normal;
   line-height: 1.2;
 }
 
 .footer {
   display: flex;
   justify-content: space-between;
-  margin: 180px 0 86px 0;
+  margin: 180px 0 88px 0;
   padding: 0 50px 0 50px;
 }
 

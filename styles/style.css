@@ -293,24 +293,26 @@ main {
 .footer {
   display: flex;
   justify-content: space-between;
-  margin-top: 173px;
+  margin: 172px 36px 100px 64px;
+  padding-right: 100px; 
 }
 
 .footer__address {
-  display: block;
-  justify-self: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   font-style: inherit;
-  padding-left: 67px;
-}
-
-.footer__menu {
-  padding-left: 30px;
+  letter-spacing: 1.5;
 }
 
 .footer__menu-list {
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   list-style: none;
-  line-height: 1.17;
+  line-height: 1.2;
+  padding-left: 40px;
 }
 
 .footer__social-icon {
@@ -329,8 +331,6 @@ main {
 
 .footer__social-list {
   display: flex;
-  justify-content: center;
   gap: 48px;
   list-style: none;
-  padding-right: 35px;
 }
